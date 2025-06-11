@@ -8,9 +8,9 @@ Suitable for creating 2D games and interactive applications
 
 ##Getting Started
 Clone this repository:
+```
 ##Code
-'''
 git clone https://github.com/santz1994/GamePy.git
-'''
+```
 
 Follow the instructions in the documentation to start building your game!
